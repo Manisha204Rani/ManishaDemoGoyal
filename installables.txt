@@ -1,0 +1,12 @@
+
+JDK 1.8(https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html#license-lightbox)
+
+Eclipse Neon(https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/neon/3/eclipse-jee-neon-3-win32-x86_64.zip)
+
+Maven 3.6.x(http://apachemirror.wuchna.com/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.zip)
+Apache Tomcat 8.0(http://apachemirror.wuchna.com/tomcat/tomcat-8/v8.5.57/bin/apache-tomcat-8.5.57-windows-x64.zip)
+Postman(https://www.postman.com/downloads/)
+MySQL(https://dev.mysql.com/downloads/mysql/)
+AWS Account (Free for 12 months)
+Git download (https://github.com/git-for-windows/git/releases/download/v2.28.0.windows.1/Git-2.28.0-64-bit.exe)
+
