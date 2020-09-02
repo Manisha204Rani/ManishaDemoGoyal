@@ -10,3 +10,12 @@ Lab 1 - Eclipse -> workspace
 Lab 2 - Data types
 	(https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 	
+Lab 3 - Create a fib series
+	0,1,1,2,3
+	ask user how many numbers ? 10 
+		print first 10 items of fib series
+	
+	main -> ask input from user (Scanner, )
+		for loop -> print hello so many times
+	
+	
