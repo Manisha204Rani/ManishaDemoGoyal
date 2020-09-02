@@ -1,0 +1,12 @@
+Lab 1 - Eclipse -> workspace
+	Create java project 
+		-> new class ->Lab1 (in main -> System.out.println("hw");
+		-> Run (Console- >output)
+		
+		-> create a new class Calc
+			int add(int i, int j){}
+		-> call calc from add from lab1
+		
+Lab 2 - Data types
+	(https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+	
