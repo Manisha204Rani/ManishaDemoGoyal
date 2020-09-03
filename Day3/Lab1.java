@@ -1,0 +1,27 @@
+
+public class Lab1 {
+	public int divide (int s1, int s2){
+		try{
+			return  s1/s2;	
+		}catch(Exception e){
+			System.out.println("Some Exception has occured");
+			throw e;
+		}
+	}
+
+	public int divide (String s1, String s2){
+		int no1 = Integer.parseInt(s1);
+		int no2 = Integer.parseInt(s2);
+		return no1/no2;
+	}
+	
+public static void main(String[] args) {
+	Lab1 l1 = new Lab1();
+	int i = l1.divide(100, 10);
+	System.out.println("Division of 100, 50 is " + i);
+	i = l1.divide("100", "50a");
+	System.out.println("Division of '100', '50' is " + i);
+}	
+	
+	
+}
