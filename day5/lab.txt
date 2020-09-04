@@ -30,3 +30,11 @@ Lab 2 -
 				  Paragraphs
 				  HTML table
 	
+Lab 3 - 
+Accept empno(number), 
+	   ename (string)
+	   salary (number)
+	   languages known - 5 check boxes
+	   location pref - radio button (Pnq, Hyd, Blr)
+	   Degree - Drop download of Bach, Master, phd
+	   
