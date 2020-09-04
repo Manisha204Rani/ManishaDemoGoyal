@@ -20,3 +20,13 @@ Lab 1-
 				(run on server)
 			Browser -> copy url
 			and test from any external browser
+Lab 2 - 
+	a href link
+	img src
+	<h1>...
+	
+	w3 schools -> Elements
+				  Headings
+				  Paragraphs
+				  HTML table
+	
