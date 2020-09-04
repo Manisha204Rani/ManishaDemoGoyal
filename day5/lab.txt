@@ -1,0 +1,22 @@
+Lab 1- 
+	Servers( Window -> show view -> others->servers)
+		Create a new server
+		Basic -> http preview 
+			-> select -> Finish
+	New Project
+		static web project
+		-> target runtime
+			-> http preview
+		Finish
+	In that project
+		in web content
+			file -> new -> html
+				-> index.html
+				-> html5 -> finish
+			modify index.html
+				title
+				in body include <h1>HelloWorld</h1>
+			run -> select http preview -> 
+				(run on server)
+			Browser -> copy url
+			and test from any external browser
