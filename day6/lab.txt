@@ -1,0 +1,2 @@
+Lab1 - Create a table Emp (empno, ename, salry, email)
+do crud operations on this table
