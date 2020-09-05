@@ -30,6 +30,14 @@ Create table Emp
 {
 empno, ename,salary
 deptno
-
-
 }
+
+Lab2 - Emp<------------------->Address
+empno(pk)----------------Address -> 
+						empno(pk)-----> fkey
+						
+Insert 3 records
+1. insert a record in Emp not in address
+2. insert a record in Address not in emp
+3. insert a duplicate in Emp as well as Address
+
