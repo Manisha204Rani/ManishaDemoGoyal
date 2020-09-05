@@ -1,0 +1,20 @@
+create table dept
+(deptno tinyint primary key,
+ dname varchar(20),
+ loc char(3))
+                    
+		  
+CRUD (SQL) -> Select ...
+
+insert into dept values (10,'HR','Hyd');
+insert into dept values (20,'IT','Blr' );
+
+insert into dept values (30,'Fin','Hyd');
+insert into dept values (40,'Training','Blr');
+select * from dept;
+
+update dept set loc='Pnq' where deptno=30;
+
+delete from dept where loc='pnq';
+select * from dept;
+
