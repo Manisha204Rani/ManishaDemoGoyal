@@ -18,3 +18,18 @@ update dept set loc='Pnq' where deptno=30;
 delete from dept where loc='pnq';
 select * from dept;
 
+
+select count(*) from emp;
+
+select job, max(sal) from emp
+group by job
+having job='MANAGER'
+
+SELECT ename, d.deptno, d.dname
+FROM dept d, emp e
+where d.deptno = e.deptno
+
+select deptno from dept;
+select deptno, count(*) from emp group by deptno
+
+
