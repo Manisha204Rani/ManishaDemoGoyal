@@ -1,2 +1,35 @@
 Lab1 - Create a table Emp (empno, ename, salry, email)
 do crud operations on this table
+
+Lab 2 - 
+  create table dept
+    (deptno tinyint  primary key,
+    dname varchar(20),
+    loc char(3))
+----------------        
+Create table dept
+(deptno tinyint  ,
+ dname varchar(20),
+ loc char(3),
+ constraint deptpk Primary Key (deptno)
+ );
+ 
+Create table Emp  -> 1. empno - pk, deptno (foreign key to Dept.deptno)
+(empno, ename, salary , deptno 
+		 
+Insert records in emp (6 records)
+10 - 1 record 
+20 - 2 records
+30 - 3 records
+40 - 0
+		 
+		  
+
+Dept(1)------(*)Emp
+Create table Emp
+{
+empno, ename,salary
+deptno
+
+
+}
