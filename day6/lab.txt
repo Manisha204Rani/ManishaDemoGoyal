@@ -11,7 +11,7 @@ Create table dept
 (deptno tinyint  ,
  dname varchar(20),
  loc char(3),
- constraint deptpk Primary Key (deptno)
+ constraint 'deptpk' Primary Key (deptno)
  );
  
 Create table Emp  -> 1. empno - pk, deptno (foreign key to Dept.deptno)
