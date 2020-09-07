@@ -8,7 +8,7 @@ Lab -
 	modify readme.md 
 		git commit -a -m message
 		git remote add mynm https://github.com/Vaishali-Tapaswi/tmpdemo
-		git push --set-upstream tmpdemo master
+		git push --set-upstream mynm master
 	
 	
 	
