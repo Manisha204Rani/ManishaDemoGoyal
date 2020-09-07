@@ -1,0 +1,14 @@
+Lab - 
+	Create a repo on github (tmpdemo)
+	
+	Create a folder on your system (anyname -> tmp11)
+		git init
+		git pull https://github.com/Vaishali-Tapaswi/tmpdemo master
+			-> see readme.md in current directory
+	modify readme.md 
+		git commit -a -m message
+		git remote add mynm https://github.com/Vaishali-Tapaswi/tmpdemo
+		git push --set-upstream tmpdemo master
+	
+	
+	
